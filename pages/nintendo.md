@@ -1,4 +1,4 @@
-#🎮 Nintendo Emulators
+# 🎮 Nintendo Emulators
 
 This page lists the best emulators available for Nintendo consoles on Android.
 
@@ -19,6 +19,19 @@ Emulator            | Version    | Release Date | Official Site                 
 --------------------|-----------|-------------|----------------------------------------------------------------|-------------  
 GBA.emu            | 1.5.61     | 2023-08-10  | [Google Play](https://play.google.com/store/apps/details?id=com.explusalpha.GbaEmu) | Not Open Source  
 Pizza Boy GBA      | 2.5.1      | 2023-09-12  | [Google Play](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygba) | Not Open Source  
+
+### 🎮 Nintendo DS
+
+Emulator            | Version    | Release Date | Official Site                                                   | Source Code  
+--------------------|-----------|-------------|----------------------------------------------------------------|-------------  
+DraStic            | r2.5.2.2   | 2024-01-10  | [Google Play](https://play.google.com/store/apps/details?id=com.dsemu.drastic) | Not Open Source  
+melonDS            | 0.9.5      | 2024-02-20  | [melonDS Website](https://melonds.kuribo64.net/) | [GitHub](https://github.com/Arisotura/melonDS)  
+
+### 🎮 Nintendo 3DS
+
+Emulator            | Version    | Release Date | Official Site                                                   | Source Code  
+--------------------|-----------|-------------|----------------------------------------------------------------|-------------  
+Citra              | Nightly 1982 | 2024-03-15  | [Citra Website](https://citra-emu.org/) | [GitHub](https://github.com/citra-emu/citra)  
 
 ---
 
@@ -61,7 +74,7 @@ Citron             | 0.4        | 2025-01-26  | [Citron-emu.org](https://citron-
 
 ---
 
-## 🔄 Features of Nintendo Emulators
+## 🔄 Some features of Nintendo Emulators
 
 - **GBC.emu**: A solid, feature-packed emulator for Game Boy and Game Boy Color.  
 - **Pizza Boy GBC**: One of the best GB/GBC emulators with high-speed performance.  
@@ -70,8 +83,10 @@ Citron             | 0.4        | 2025-01-26  | [Citron-emu.org](https://citron-
 - **NES.emu**: A reliable NES emulator with strong compatibility.  
 - **John NESS**: A dual NES & SNES emulator with enhanced features.  
 - **Snes9x EX+**: A highly optimized SNES emulator with full accuracy.  
-
-
-🔙 **[Back to Homepage](../index.md)**
+- **DraStic**: A powerful and highly optimized emulator for Nintendo DS, known for fast performance and high compatibility.  
+- **melonDS**: An open-source DS emulator that focuses on accuracy and online connectivity.  
+- **Citra**: The leading Nintendo 3DS emulator, offering excellent game compatibility and performance.  
 
 ---
+
+🔙 **[Back to Homepage](../index.md)**
