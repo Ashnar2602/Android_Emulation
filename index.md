@@ -37,6 +37,18 @@ Using emulators may require the use of BIOS or ROM files, which are subject to c
 
 ---
 
+## 🖥️ Frontend Launchers for Android
+
+Frontend launchers provide an organized and visually appealing way to manage and launch your emulated games. Below are some of the best frontend options available for Android:
+
+| Frontend Launcher | Description | Official Site |
+|-------------------|-------------|--------------|
+| **Beacon** | A lightweight frontend designed for speed and customization. | [Beacon Official Site](https://github.com/Beacon-Launcher) |
+| **ES-DE** | A powerful, modern frontend with extensive configuration options. | [ES-DE Official Site](https://es-de.org/) |
+| **Daijisho** | A stylish and intuitive frontend built specifically for Android devices. | [Daijisho GitHub](https://github.com/magneticchen/Daijisho) |
+
+---
+
 ⚠️ **Disclaimer**  
 This site provides information on legal emulators only. No ROMs or BIOS files are provided.
 
