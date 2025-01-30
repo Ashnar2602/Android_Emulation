@@ -6,8 +6,7 @@ This page provides links to open-source graphics drivers that improve emulation 
 
 | Driver | Description | Version | Official Site | Source Code |
 |--------|-------------|---------|--------------|-------------|
-| **Turnip** | Open-source Vulkan driver for Qualcomm Adreno GPUs. | Latest | [Turnip Info](https://gitlab.freedesktop.org/mesa/mesa/-/tree/main/src/freedreno/vulkan) | [GitLab](https://gitlab.freedesktop.org/mesa/mesa) |
-| **Mesa** | Open-source OpenGL/Vulkan driver suite supporting multiple GPUs. | Latest | [Mesa3D](https://www.mesa3d.org/) | [GitLab](https://gitlab.freedesktop.org/mesa/mesa) |
+| **Adreno Tools** | Open-source Vulkan driver for Qualcomm Adreno GPUs. | v25.0.0 Revision 8 | [GitHub](https://github.com/K11MCH1/AdrenoToolsDrivers) |
 
 ---
 
