@@ -27,7 +27,7 @@ This page lists the best emulators available for Sony consoles on Android.
 | **DuckStation** | 0.1-5479 | 2023-06-25   | [duckstation.org](https://www.duckstation.org/) | [GitHub](https://github.com/stenzek/duckstation) |
 | **ePSXe**     | 2.0.16    | 2022-12-05   | [epsxe.com](https://www.epsxe.com/) | Not Open Source |
 | **FPse**      | 11.241    | 2023-07-15   | [FPse Official Site](https://play.google.com/store/apps/details?id=com.emulator.fpse) | Not Open Source |
-| **Xebra**     | 1.0.6     | 2023-06-01   | [Xebra Official Site](https://xebra.jp/) | Not Open Source |
+| **Xebra**     | 1.0.6     | 2023-06-01   | [Xebra Official Site](https://play.google.com/store/apps/details?id=com.dokutajigokusai.xebra) | Not Open Source |
 
 ### 🎮 PlayStation 2 (PS2)
 | Emulator       | Version   | Release Date | Official Site | Source Code |
