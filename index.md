@@ -24,7 +24,7 @@ Using emulators may require the use of BIOS or ROM files, which are subject to c
 ---
 
 ## 🔗 Browse by Brand
-- [Nulti Emulators](multi_aio.md)
+- [Multi Emulators](multi_aio.md)
 - [Nintendo Emulators](nintendo.md)
 - [Sony Emulators](sony.md)
 - [Sega Emulators](sega.md)
