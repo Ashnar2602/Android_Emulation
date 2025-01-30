@@ -16,7 +16,7 @@ This section includes emulators that support multiple gaming systems on Android.
 
 - **RetroArch**: Uses the **Libretro** framework to support multiple systems with modular cores.
 - **Lemuroid**: A user-friendly frontend with auto-save and cloud sync support.
-- **MAME4droid**: The best option for playing **arcade games**, supporting thousands of classic titles.
+- **MAME4droid**: One of the best options for playing **arcade games**, supporting thousands of classic titles, it's a port of the MAMEdev.org project.
 
 ---
 
