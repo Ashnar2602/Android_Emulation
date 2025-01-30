@@ -136,7 +136,7 @@ This page lists the best emulators available for Sony consoles on Android.
     <td>Alpha V3</td>
     <td>2024-09-11</td>
     <td>No Website</td>
-    <td><a href="[https://github.com/jpd002/Play-](https://github.com/XForYouX/PCSX2-Android)">GitHub</a></td>
+    <td><a href="https://github.com/XForYouX/PCSX2-Android">GitHub</a></td>
    </tr>
   <tr>
     <td><b>Golden PS2</b></td>
