@@ -24,16 +24,16 @@ Using emulators may require the use of BIOS or ROM files, which are subject to c
 ---
 
 ## 🔗 Browse by Brand
-- [Multi Emulators](multi_aio.md)
-- [Nintendo Emulators](nintendo.md)
-- [Sony Emulators](sony.md)
-- [Sega Emulators](sega.md)
-- [Microsoft Emulators](microsoft.md)
-- [Atari Emulators](atari.md)
-- [NEC Emulators](nec.md)
-- [SNK Emulators](snk.md)
-- [Bandai Emulators](bandai.md)
-- [Other Emulators](others.md)
+- [Multi Emulators](pages/multi_aio.md)
+- [Nintendo Emulators](pages/nintendo.md)
+- [Sony Emulators](pages/sony.md)
+- [Sega Emulators](pages/sega.md)
+- [Microsoft Emulators](pages/microsoft.md)
+- [Atari Emulators](pages/atari.md)
+- [NEC Emulators](pages/nec.md)
+- [SNK Emulators](pages/snk.md)
+- [Bandai Emulators](pages/bandai.md)
+- [Other Emulators](pages/others.md)
 
 ---
 
