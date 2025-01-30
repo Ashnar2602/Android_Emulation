@@ -10,7 +10,7 @@ This page lists the best emulators available for Sony consoles on Android.
 | Emulator               | Version   | Release Date | Official Site | Source Code |
 |-----------------------|-----------|--------------|---------------|-------------|
 | **PPSSPP**           | 1.16.2    | 2023-10-05   | [ppsspp.org](https://www.ppsspp.org/) | [GitHub](https://github.com/hrydgard/ppsspp) |
-| **Rocket PSP Emulator** | 3.0.0  | 2023-08-15   | [Rocket PSP on Play Store](https://play.google.com/store/apps/details?id=com.emulator.rocketspp) | Not Open Source |
+| **Rocket PSP Emulator** | 3.0.0  | 2023-08-15   | [Rocket PSP on Play Store](https://play.google.com/store/apps/details?id=com.emultech.rocketpsp) | Not Open Source |
 
 ### 🎮 PlayStation Vita
 | Emulator       | Version   | Release Date | Official Site | Source Code |
