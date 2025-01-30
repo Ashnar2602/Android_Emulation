@@ -49,6 +49,16 @@ Frontend launchers provide an organized and visually appealing way to manage and
 
 ---
 
+## 🛠️ Drivers & Tools
+
+This section includes useful drivers and tools that can enhance your emulation experience on Android.
+
+- [🔧 Graphics Drivers (Turnip, Mesa)](tools_&_drivers/drivers.md)
+
+More tools will be added soon!
+
+---
+
 ⚠️ **Disclaimer**  
 This site provides information on legal emulators only. No ROMs or BIOS files are provided.
 
