@@ -43,9 +43,9 @@ Frontend launchers provide an organized and visually appealing way to manage and
 
 | Frontend Launcher | Screenshot | Description | Official Site |
 |-------------------|------------|-------------|--------------|
-| **Beacon** | ![Beacon](fronte_ends/beacon_screen.jpeg) | A lightweight frontend designed for speed and customization. | [Beacon on PlayStore](https://play.google.com/store/apps/details?id=com.radikal.gamelauncher) |
-| **ES-DE** | ![ES-DE](fronte_ends/ES-DE_screen.png) | A powerful, modern frontend with extensive configuration options. | [ES-DE Official Site](https://es-de.org/) |
-| **Daijisho** | ![Daijisho](fronte_ends/daijisho_screen.jpg) | A stylish and intuitive frontend built specifically for Android devices. | [Daijisho GitHub](https://github.com/TapiocaFox/Daijishou) |
+| **Beacon** | <a href="fronte_ends/beacon_screen.jpeg"><img src="fronte_ends/beacon_screen.jpeg" width="100"></a> | A lightweight frontend designed for speed and customization. | [Beacon on PlayStore](https://play.google.com/store/apps/details?id=com.radikal.gamelauncher) |
+| **ES-DE** | <a href="fronte_ends/ES-DE_screen.png"><img src="fronte_ends/ES-DE_screen.png" width="100"></a> | A powerful, modern frontend with extensive configuration options. | [ES-DE Official Site](https://es-de.org/) |
+| **Daijisho** | <a href="fronte_ends/daijisho_screen.jpg"><img src="fronte_ends/daijisho_screen.jpg" width="100"></a> | A stylish and intuitive frontend built specifically for Android devices. | [Daijisho GitHub](https://github.com/TapiocaFox/Daijishou) |
 
 ---
 
