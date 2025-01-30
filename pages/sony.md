@@ -22,7 +22,7 @@ This page lists the best emulators available for Sony consoles on Android.
     <td>1.16.2</td>
     <td>2023-10-05</td>
     <td><a href="https://www.ppsspp.org/">ppsspp.org</a></td>
-    <td><a href="[https://github.com/hrydgard/ppsspp](https://play.google.com/store/apps/details?id=com.emultech.rocketpsp)">PlayStore</a></td>
+    <td><a href="https://github.com/hrydgard/ppsspp">GitHub</a></td>
   </tr>
   <tr>
     <td><b>Rocket PSP Emulator</b></td>
