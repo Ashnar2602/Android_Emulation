@@ -131,11 +131,25 @@ This page lists the best emulators available for Sony consoles on Android.
     <td><a href="https://purei.org/">purei.org</a></td>
     <td><a href="https://github.com/jpd002/Play-">GitHub</a></td>
   </tr>
+   <tr>
+    <td><b>PCSX2-Android</b></td>
+    <td>Alpha V3</td>
+    <td>2024-09-11</td>
+    <td>No Website</td>
+    <td><a href="[https://github.com/jpd002/Play-](https://github.com/XForYouX/PCSX2-Android)">GitHub</a></td>
+   </tr>
   <tr>
     <td><b>Golden PS2</b></td>
     <td>2.1.3</td>
     <td>2023-07-20</td>
     <td><a href="https://play.google.com/store/apps/details?id=com.fpsemulator.goldpps2">Google Play</a></td>
+    <td>Not Open Source</td>
+  </tr>
+  <tr>
+    <td><b>EtherealSX2</b></td>
+    <td>No Release Yet</td>
+    <td>-</td>
+    <td><a href="[https://play.google.com/store/apps/details?id=com.fpsemulator.goldpps2](https://github.com/Trixarian/EtherealSX2)">GitHub</a></td>
     <td>Not Open Source</td>
   </tr>
 </table>
