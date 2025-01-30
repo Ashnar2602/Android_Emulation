@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Android Emulators Repository
+title: Android Emulators
 description: Free and open-source emulators for Android
 ---
 
