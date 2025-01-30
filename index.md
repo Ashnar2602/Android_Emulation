@@ -1,7 +1,13 @@
+---
+layout: default
+title: Android Emulators
+description: Free and open-source emulators for Android
+---
+
 # 📱 Android Emulators Repository
 
 Welcome to the **Android Emulators Repository**!  
-Here you'll find a curated list of free and/or open-source emulators for Android.
+This repository lists free and/or open-source emulators for Android with links to official sources.
 
 ➡️ **[View the full list of emulators](emulatori.md)**
 
