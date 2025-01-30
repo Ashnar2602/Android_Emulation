@@ -29,7 +29,7 @@ This page lists the best emulators available for Sony consoles on Android.
 ### 🎮 PlayStation 2 (PS2)
 | Emulator       | Version   | Release Date | Official Site | Source Code |
 |---------------|-----------|--------------|---------------|-------------|
-| **AetherSX2** | 1.4-3065  | 2023-08-20   | [aethersx2.com](https://www.aethersx2.com/) | Not Open Source |
+| **AetherSX2** | 1.4-3065  | 2023-08-20   | [aethersx2.com](https://play.google.com/store/apps/details?id=xyz.aethersx2.android) | Not Open Source |
 | **DamonPS2**  | 5.0       | 2023-07-10   | [damonps2.com](https://www.damonps2.com/) | Not Open Source |
 
 ---
