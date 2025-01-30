@@ -8,7 +8,7 @@ This section includes emulators that support multiple gaming systems on Android.
 |-------------|------------------|-----------|--------------|--------------|-------------|
 | **RetroArch** | Multi-console (NES, SNES, GB, GBA, N64, PS1, PSP, etc.) | 1.16.0 | 2023-09-01 | [retroarch.com](https://www.retroarch.com) | [GitHub](https://github.com/libretro/RetroArch) |
 | **Lemuroid** | Multi-console (NES, SNES, GB, GBA, N64, PS1, PSP, DS) | 1.15.0 | 2023-08-22 | [lemuroid.com](https://swordfishslabs.github.io/) | [GitHub](https://github.com/Swordfish90/Lemuroid) |
-| **MAME4droid** | Arcade (MAME) | 0.37b5 | 2023-08-10 | [mame4droid.com](https://www.mame4droid.com) | [GitHub](https://github.com/Seleuco/MAME4droid) |
+| **MAME4droid** | Arcade (MAME) | 0.37b5 | 2023-08-10 | [mame4droid.com](https://www.mame4droid.com) | [GitHub](https://github.com/seleuco/MAME4droid-Current) |
 
 ---
 
