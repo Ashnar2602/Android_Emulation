@@ -97,9 +97,9 @@ This page lists the best emulators available for Nintendo consoles on Android.
   <tr>
     <td><b>Snes9x EX+</b></td>
     <td>1.5.61</td>
-    <td>2023-08-10</td>
+    <td>2024-07-09</td>
     <td><a href="https://play.google.com/store/apps/details?id=com.explusalpha.Snes9xPlus">Google Play</a></td>
-    <td>Open Source</td>
+    <td><a href="https://github.com/snes9xgit/snes9xe">GitHub</td>
   </tr>
 </table>
 
@@ -113,9 +113,16 @@ This page lists the best emulators available for Nintendo consoles on Android.
     <th>Codice sorgente</th>
   </tr>
   <tr>
+    <td><b>Mupen64Plus</b></td>
+    <td>2.6.0</td>
+    <td>2024-07-15</td>
+    <td><a href="https://www.mupen64plus.org/">Mupen64Plus.org</a></td>
+    <td><a href="https://github.com/mupen64plus/mupen64plus-core">GitHub</a></td>
+  </tr>
+  <tr>
     <td><b>Mupen64Plus FZ</b></td>
     <td>3.0.263 (beta)</td>
-    <td>2023-01-15</td>
+    <td>2024-04-01</td>
     <td><a href="https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita">Google Play</a></td>
     <td><a href="https://github.com/mupen64plus-ae/mupen64plus-ae">GitHub</a></td>
   </tr>
@@ -132,9 +139,9 @@ This page lists the best emulators available for Nintendo consoles on Android.
   </tr>
   <tr>
     <td><b>Dolphin Emulator</b></td>
-    <td>5.0-15344</td>
-    <td>2023-03-10</td>
-    <td><a href="https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu">Google Play</a></td>
+    <td>2412</td>
+    <td>2024-02-12</td>
+    <td><a href="https://it.dolphin-emu.org/">Dolphin-Emu.org</a></td>
     <td><a href="https://github.com/dolphin-emu/dolphin">GitHub</a></td>
   </tr>
 </table>
