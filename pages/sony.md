@@ -149,8 +149,8 @@ This page lists the best emulators available for Sony consoles on Android.
     <td><b>EtherealSX2</b></td>
     <td>No Release Yet</td>
     <td>-</td>
-    <td><a href="[https://play.google.com/store/apps/details?id=com.fpsemulator.goldpps2](https://github.com/Trixarian/EtherealSX2)">GitHub</a></td>
-    <td>Not Open Source</td>
+    <td>No Website</td>
+    <td><a href="https://github.com/Trixarian/EtherealSX2">GitHub</a></td>
   </tr>
 </table>
 
