@@ -65,9 +65,9 @@ Dolphin Emulator   | 2412       | 2024-02-12  | [Dolphin-Emu.org](https://it.dol
 
 ### 🎮 Nintendo Switch
 
-Emulator            | Version      | Release Date&nbsp;&nbsp;    | Official Site                                                   | Source Code  | Notes
+Emulator            | Version      | Release Date&nbsp;&nbsp;&nbsp;    | Official Site                                                   | Source Code  | Notes
 --------------------|--------------|-----------------|-----------------------------------------------------------------|--------------|--------  
-Uzuy Edge          | v0.0.5-13    | <span style="white-space: nowrap;">17-Dec-2024</span>  | [Uzuy.online](https://uzuy.online/) | Not Open Source/No GitHub | A fork of Yuzu
+Uzuy Edge          | v0.0.5-13    | 17-Dec-2024  | [Uzuy.online](https://uzuy.online/) | Not Open Source/No GitHub | A fork of Yuzu
 Sudachi            | 1.0.13         | 15-Jan-2025  | [SudachiEmu.com](https://sudachiemu.com) | [GitHub](https://github.com/emuplace/sudachi.emuplace.app) | Another fork of Yuzu
 SuYu               | 0.0.3      | 12-Apr-2024  | [SuYu.dev](https://suyu.dev/) | [GitHub](https://git.suyu.dev/suyu/suyu) | You guessed it, another fork of Yuzu
 Citron             | 0.4               | 26-Jan2025  | [Citron-emu.org](https://citron-emu.org/) | [GitHub](https://git.citron-emu.org/Citron/Citron) | Yet another fork
