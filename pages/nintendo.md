@@ -65,7 +65,7 @@ Dolphin Emulator   | 2412       | 2024-02-12  | [Dolphin-Emu.org](https://it.dol
 
 ### 🎮 Nintendo Switch
 
-Emulator            | Version      | Release Date&nbsp;&nbsp;&nbsp;    | Official Site                                                   | Source Code  | Notes
+Emulator            | Version      | Release Date&nbsp;&nbsp;&nbsp;&nbsp; | Official Site                                                   | Source Code  | Notes
 --------------------|--------------|-----------------|-----------------------------------------------------------------|--------------|--------  
 Uzuy Edge          | v0.0.5-13    | 17-Dec-2024  | [Uzuy.online](https://uzuy.online/) | Not Open Source/No GitHub | A fork of Yuzu
 Sudachi            | 1.0.13         | 15-Jan-2025  | [SudachiEmu.com](https://sudachiemu.com) | [GitHub](https://github.com/emuplace/sudachi.emuplace.app) | Another fork of Yuzu
