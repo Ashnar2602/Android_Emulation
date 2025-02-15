@@ -1,39 +1,39 @@
 ---
 layout: default
 title: Android Emulators
-description: Free and open-source emulators for Android
+description: Free, open-source, and paid emulators for Android
 ---
 
-# 📱 Android Emulators Repository
+# 📱 Android Emulation Hub
 
-Welcome to the **Android Emulators Repository**!  
-Explore free and open-source emulators for Android, organized by console brands.
+Welcome to the **Android Emulation Hub**!  
+Explore free, open-source, and paid emulators for Android, organized by console brand.
 
 ---
 
-⚠️ **Legal Disclaimer**  
-This repository is for **informational purposes only**. It provides links to legal emulators and their official websites or source code repositories.  
-We do **not condone or support piracy** in any form. This repository does not host or provide links to ROMs, BIOS files, or any other copyrighted materials.  
-Using emulators may require the use of BIOS or ROM files, which are subject to copyright laws. Ensure you have a legal right to use these files in accordance with the laws of your country.
+🚨 **IMPORTANT: Legal Disclaimer** 🚨  
 
-**Key Points:**
-- Emulators themselves are legal tools.
-- ROMs, BIOS files, and other game-related materials may require you to own an original copy of the game or hardware.
-- By using this repository, you agree to take full responsibility for complying with applicable laws.
+This repository **DOES NOT** support or encourage piracy. It is for informational purposes only.  
+📺 **No ROMs or BIOS files are provided.**  
+📃 **Emulators are legal, but using ROMs/BIOS files depends on local laws.**  
+🔒 **By using this site, you agree to comply with your country's regulations.**  
 
 ---
 
 ## 🔗 Browse by Brand
-- [Multi Emulators](pages/multi_aio.md)
-- [Nintendo Emulators](pages/nintendo.md)
-- [Sony Emulators](pages/sony.md)
-- [Sega Emulators](pages/sega.md)
-- [Microsoft Emulators](pages/microsoft.md)
-- [Atari Emulators](pages/atari.md)
-- [NEC Emulators](pages/nec.md)
-- [SNK Emulators](pages/snk.md)
-- [Bandai Emulators](pages/bandai.md)
-- [Other Emulators](pages/others.md)
+
+| Brand | Page |
+|-------|------|
+| 🎮 **Multi Emulators** | [Multi Emulators](pages/multi_aio.md) - Emulators supporting multiple platforms. |
+| 🏹 **Nintendo** | [Nintendo Emulators](pages/nintendo.md) - Emulators for NES, SNES, GameCube, Switch, etc. |
+| 🎨 **Sony** | [Sony Emulators](pages/sony.md) - Emulators for PlayStation 1-5 and PSP. |
+| 🔄 **Sega** | [Sega Emulators](pages/sega.md) - From Mega Drive to Dreamcast. |
+| 🔵 **Microsoft** | [Microsoft Emulators](pages/microsoft.md) - Emulators for Xbox and more. |
+| 🎩 **Atari** | [Atari Emulators](pages/atari.md) - Classic Atari consoles. |
+| 🛠 **NEC** | [NEC Emulators](pages/nec.md) - PC Engine, TurboGrafx-16, and more. |
+| 🌟 **SNK** | [SNK Emulators](pages/snk.md) - Emulators for Neo Geo. |
+| 🛡 **Bandai** | [Bandai Emulators](pages/bandai.md) - WonderSwan and other consoles. |
+| 🏆 **Other** | [Other Emulators](pages/others.md) - Everything not covered above. |
 
 ---
 
@@ -41,11 +41,16 @@ Using emulators may require the use of BIOS or ROM files, which are subject to c
 
 Frontend launchers provide an organized and visually appealing way to manage and launch your emulated games. Below are some of the best frontend options available for Android.
 
-| Frontend Launcher | Screenshot (click & zoom) | Description | Official Site |
-|-------------------|------------|-------------|--------------|
-| **Beacon** | <a href="fronte_ends/beacon_screen.jpeg"><img src="fronte_ends/beacon_screen.jpeg" width="100"></a> | A lightweight frontend designed for speed and customization. | [Beacon on PlayStore](https://play.google.com/store/apps/details?id=com.radikal.gamelauncher) |
-| **ES-DE** | <a href="fronte_ends/ES-DE_screen.png"><img src="fronte_ends/ES-DE_screen.png" width="100"></a> | A powerful, modern frontend with extensive configuration options. | [ES-DE Official Site](https://es-de.org/) |
-| **Daijisho** | <a href="fronte_ends/daijisho_screen.jpg"><img src="fronte_ends/daijisho_screen.jpg" width="100"></a> | A stylish and intuitive frontend built specifically for Android devices. | [Daijisho GitHub](https://github.com/TapiocaFox/Daijishou) |
+| Frontend Launcher | Screenshot (click to enlarge) | Description | Price | Official Site |
+|-------------------|----------------------------------|-------------|-------|----------------|
+| **Beacon** | <a href="fronte_ends/beacon_screen.jpeg"><img src="fronte_ends/beacon_screen.jpeg" width="100"></a> | A lightweight frontend designed for speed and customization. | Free | [Beacon on Play Store](https://play.google.com/store/apps/details?id=com.radikal.gamelauncher) |
+| **ES-DE** | <a href="fronte_ends/ES-DE_screen.png"><img src="fronte_ends/ES-DE_screen.png" width="100"></a> | A powerful, modern frontend with extensive configuration options. | Paid | [ES-DE Official Site](https://es-de.org/) |
+| **Daijisho** | <a href="fronte_ends/daijisho_screen.jpg"><img src="fronte_ends/daijisho_screen.jpg" width="100"></a> | A stylish and intuitive frontend built specifically for Android devices. | Free | [Daijisho GitHub](https://github.com/TapiocaFox/Daijishou) |
+| **LaunchBox** | <a href="fronte_ends/launchbox_screen.jpg"><img src="fronte_ends/launchbox_screen.jpg" width="100"></a> | A feature-rich frontend with extensive customization options. | Paid | [LaunchBox Official Site](https://www.launchbox-app.com/) |
+| **Pegasus** | <a href="fronte_ends/pegasus_screen.jpg"><img src="fronte_ends/pegasus_screen.jpg" width="100"></a> | A highly flexible and open-source frontend. | Free | [Pegasus Frontend](https://pegasus-frontend.org/) |
+| **Plain Launcher** | <a href="fronte_ends/plain_launcher_screen.jpg"><img src="fronte_ends/plain_launcher_screen.jpg" width="100"></a> | A minimalistic and easy-to-use game launcher. | Free | [Plain Launcher GitHub](https://github.com/username/plain-launcher) |
+| **Reset Collection** | <a href="fronte_ends/reset_collection_screen.jpg"><img src="fronte_ends/reset_collection_screen.jpg" width="100"></a> | A polished and organized frontend with a clean UI. | Paid | [Reset Collection on Play Store](https://play.google.com/store/apps/details?id=com.example.resetcollection) |
+| **Dig Emulator Frontend** | <a href="fronte_ends/dig_screen.jpg"><img src="fronte_ends/dig_screen.jpg" width="100"></a> | One of the most popular frontends, offering deep customization. | Free | [Dig Emulator Frontend on Play Store](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig) |
 
 ---
 
@@ -54,12 +59,12 @@ Frontend launchers provide an organized and visually appealing way to manage and
 This section includes useful drivers and tools that can enhance your emulation experience on Android.
 
 - [🔧 Graphics Drivers (Turnip, Mesa)](tools_&_drivers/drivers.md)
+- [🕹 Gamepad Mappers (Octopus, Mantis, Panda)](tools_&_drivers/gamepad_mappers.md)
+- [✨ Shader Packs (Reshade, RetroArch GLSL)](tools_&_drivers/shaders.md)
 
 More tools will be added soon!
 
 ---
 
-⚠️ **Disclaimer**  
-This site provides information on legal emulators only. No ROMs or BIOS files are provided.
+🌐 **Visit the [GitHub Repository](https://github.com/Ashnar2602/Android_Emulation) to contribute!**
 
-🌍 Visit the **[GitHub Repository](https://github.com/Ashnar2602/Android_Emulation)** to contribute!
