@@ -1,13 +1,10 @@
 # 📱 Android Emulators Repository
 
-Welcome to the **Android Emulators Repository**!  
-Here you'll find a curated list of free and/or open-source emulators for Android.
-
-➡️ **[View the full list of emulators](emulatori.md)**
-
----
+Welcome to the **Android Emulation Hub**!  
+Here you'll find a curated list of free, paid and/or open-source emulators for Android.
 
 ⚠️ **Disclaimer**  
-This site provides information on legal emulators only. No ROMs or BIOS files are provided.
+This site provides information on legal emulation only.
+No ROMs, BIOS or any copyrighted files are provided.
 
 🌍 Visit the **[GitHub Repository](https://github.com/YOURUSERNAME/Android_Emulation)** to contribute!
